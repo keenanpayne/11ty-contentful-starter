@@ -1,7 +1,6 @@
+# Collective Intelligence
 
-
-11ty-contentful-starter
-=====
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66a27af9-92e9-4f43-9eb9-e4e3beaabdb5/deploy-status)](https://app.netlify.com/sites/collectiveintelligence/deploys)
 
 An example site made using [Contentful](https://www.contentful.com/) and [11ty](https://www.11ty.dev/). It's automatically deployed via GitHub Actions and then hosted by GitHub Pages. Data lives in Contentful, code lives with GitHub, and that's all the services you need to deploy and host a static site.
 
